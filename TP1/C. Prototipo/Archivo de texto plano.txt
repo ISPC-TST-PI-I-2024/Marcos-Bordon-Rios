@@ -1,0 +1,6 @@
+*Materia: Proyecto Integrador
+*Profesor: Cristian Gonzalo Vera
+*Alumno: Marcos Bordón Rios
+
+*Archivo simple de texto plano en VsCode.
+*Para hacer commit y push en el repositorio de GitHub.
